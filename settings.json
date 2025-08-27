@@ -1,0 +1,16 @@
+{
+  "model_provider": {
+    "type": "lmstudio",
+    "base_url": "http://localhost:1234/v1",
+    "model": "lmstudio-community/gemma-3-1b-it-GGUF"
+  },
+
+  "mcp_servers": {
+    "obsidian": {
+      "endpoint": "http://localhost:8080/obsidian",
+      "vault_path": "C:\\Users\\dashp\\.gemini\\obsidianVault",
+      "api_key": "..."
+    }
+  }
+  
+}

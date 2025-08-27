@@ -1,0 +1,6 @@
+.env
+obsidianVault
+tmp
+__pycache__
+oauth_creds.json
+installation_id
